@@ -5,9 +5,12 @@ int add(a,b)
 int main()
 {
 line 1
+line 3
 
 
 
-revised this line please
-
+hello!
 };
+function a() {
+	1+1;
+}
